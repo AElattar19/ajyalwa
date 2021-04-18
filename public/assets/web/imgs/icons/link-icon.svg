@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="link-icon" transform="translate(-0.021 -0.258)">
+    <g id="XMLID_105_" transform="translate(9.105 9.105)">
+      <path id="XMLID_106_" d="M6.871,106.536l-1.953,1.953h0a2.072,2.072,0,0,1-2.93-2.93h0l1.953-1.953a.691.691,0,0,0-.977-.977l-1.953,1.953h0a3.453,3.453,0,0,0,4.883,4.882h0l1.953-1.953a.691.691,0,0,0-.977-.977Z" transform="translate(0 -97.714)" fill="#fff"/>
+      <path id="XMLID_107_" d="M110.474,3.487a3.453,3.453,0,0,0-5.894-2.441h0L102.627,3a.691.691,0,1,0,.977.977l1.953-1.953h0a2.072,2.072,0,0,1,2.93,2.93h0L106.533,6.9a.691.691,0,1,0,.977.977l1.953-1.953h0A3.43,3.43,0,0,0,110.474,3.487Z" transform="translate(-97.709 -0.036)" fill="#fff"/>
+      <path id="XMLID_108_" d="M81.416,86.3a.69.69,0,0,0,.977,0L86.3,82.392a.691.691,0,1,0-.977-.977l-3.906,3.906A.691.691,0,0,0,81.416,86.3Z" transform="translate(-77.475 -77.476)" fill="#fff"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(0.021 0.258)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+    </g>
+  </g>
+</svg>

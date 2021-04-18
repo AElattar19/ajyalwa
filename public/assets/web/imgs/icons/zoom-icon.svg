@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="zoom-icon" transform="translate(-0.495 -0.258)">
+    <g id="search" transform="translate(9.104 9.105)">
+      <g id="Group_54" data-name="Group 54" transform="translate(0 0)">
+        <path id="Path_41" data-name="Path 41" d="M11.248,8.837A5.178,5.178,0,1,0,3.925,1.514a5.078,5.078,0,0,0-.779,6.25.218.218,0,0,1-.03.259L.474,10.665a1.207,1.207,0,0,0-.185,1.727l.08.08A1.206,1.206,0,0,0,2.1,12.288L4.733,9.652A.221.221,0,0,1,5,9.616,5.078,5.078,0,0,0,11.248,8.837ZM4.881,7.881a3.826,3.826,0,1,1,5.411,0A3.83,3.83,0,0,1,4.881,7.881Z" transform="translate(-0.001 0)" fill="#fff"/>
+        <g id="Group_53" data-name="Group 53" transform="translate(4.676 2.072)">
+          <path id="Path_42" data-name="Path 42" d="M114.286,53.2a.535.535,0,0,1-.492-.743,3.368,3.368,0,0,1,4.41-1.787.534.534,0,1,1-.417.984,2.3,2.3,0,0,0-3.009,1.219A.535.535,0,0,1,114.286,53.2Z" transform="translate(-113.752 -50.409)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(0.495 0.258)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+    </g>
+  </g>
+</svg>
